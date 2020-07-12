@@ -37,7 +37,6 @@
 - [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
 - [Showcase 🚀](#showcase-)
 - [Versão em Português :brazil:](#versao-em-portugues-)
-- [Contributors ✨](#contributors-)
 - [License 📄](#license-)
 
 ## Technology Stack 🛠️
