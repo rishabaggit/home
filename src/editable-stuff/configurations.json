@@ -2,21 +2,21 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
+  "FirstName": "Rishab",
   "MiddleName": "",
-  "LastName": "Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "LastName": "Agarwal",
+  "devDesc": "| Data Science | Programmer | Web Developer | Photographer | Athlete ",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/rishabaggit",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashirshoaeb",
+      "url": "https://www.facebook.com/rishab.agarwal.3133/?viewas=100000686899395",
       "style": "socialicons"
     },
     {
